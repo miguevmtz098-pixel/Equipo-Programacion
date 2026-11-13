@@ -1,0 +1,34 @@
+D:\ARAGI\PAJ2026\Abarrotes GJ\bin\Debug\Abarrotes GJ.exe.config
+D:\ARAGI\PAJ2026\Abarrotes GJ\bin\Debug\Abarrotes GJ.exe
+D:\ARAGI\PAJ2026\Abarrotes GJ\bin\Debug\Abarrotes GJ.pdb
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes GJ.csproj.AssemblyReference.cache
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes_GJ.FmrMarca.resources
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes_GJ.MDIParent1.resources
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes_GJ.Properties.Resources.resources
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes GJ.csproj.GenerateResource.cache
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes GJ.csproj.CoreCompileInputs.cache
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes GJ.exe
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes GJ.pdb
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes_GJ.FmrCategorias.resources
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes_GJ.Fmrproducto.resources
+D:\ARAGI\PAJ2026\Abarrotes GJ\bin\Debug\Zen.Barcode.Core.dll
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrote.6E064088.Up2Date
+D:\ARAGI\PAJ2026\Abarrotes GJ\obj\Debug\Abarrotes_GJ.Fmrventas.resources
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes GJ.csproj.AssemblyReference.cache
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes_GJ.FmrCategorias.resources
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes_GJ.FmrMarca.resources
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes_GJ.Fmrproducto.resources
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes_GJ.Fmrventas.resources
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes_GJ.FrmLogin.resources
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes_GJ.FmrUsuarios.resources
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes_GJ.MDIParent1.resources
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes_GJ.Properties.Resources.resources
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes GJ.csproj.GenerateResource.cache
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes GJ.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes GJ.exe
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrotes GJ.pdb
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\bin\Debug\Abarrotes GJ.exe.config
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\bin\Debug\Abarrotes GJ.exe
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\bin\Debug\Abarrotes GJ.pdb
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Miguel Vazquez\Music\Abarrotes GJ\obj\Debug\Abarrote.6E064088.Up2Date
